@@ -4,3 +4,7 @@ MENCOBA GITHUB
 - Python
 ^Laravel
 - Fundamental 
+^ Angular
+^ Cheatah
+
+
