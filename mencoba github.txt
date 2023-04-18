@@ -2,3 +2,4 @@ MENCOBA GITHUB
 - Javascript
 - PHP
 - Python
+- Fundamental 
